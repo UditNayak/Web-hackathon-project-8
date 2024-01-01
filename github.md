@@ -1,1 +1,1 @@
-[ github link to the project](https://github.com/UditNayak/Web-hackathon-project-8)
+[ Click here to open the Website ](https://uditnayak.github.io/Web-hackathon-project-8/)
